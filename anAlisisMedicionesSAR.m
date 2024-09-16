@@ -62,7 +62,7 @@ plot(IU900_Cal_Ant2./tmp2,'LineWidth',1.5);
 plot(IU900_Cal_Ant3./tmp3,'LineWidth',1.5);
 legend('IU_1','IU_2','IU_3')
 ylabel('Normalized voltage','FontSize',9,'FontWeight','bold')
-xlabel('Sample number - 900 MHz','FontSize',9,'FontWeight','bold')
+xlabel('(a) IU Sensor - Sample number - 900 MHz','FontSize',9,'FontWeight','bold')
 xlim([1 209]);
 ylim([0 1]);
 grid on
@@ -77,7 +77,7 @@ plot(MVG900_Cal_Ant2./tmp2,'LineWidth',1.5);
 plot(MVG900_Cal_Ant3./tmp3,'LineWidth',1.5);
 legend('MVG_1','MVG_2','MVG_3')
 ylabel('Normalized voltage','FontSize',9,'FontWeight','bold')
-xlabel('Sample number - 900 MHz','FontSize',9,'FontWeight','bold')
+xlabel('(b) MVG Probe - Sample number - 900 MHz','FontSize',9,'FontWeight','bold')
 xlim([1 209]);
 ylim([0 1]);
 grid on
@@ -96,7 +96,7 @@ plot(IU1800_Cal_Ant2./tmp2,'LineWidth',1.5);
 plot(IU1800_Cal_Ant3./tmp3,'LineWidth',1.5);
 legend('IU_1','IU_2','IU_3')
 ylabel('Normalized voltage','FontSize',9,'FontWeight','bold')
-xlabel('Sample number - 1800 MHz ','FontSize',9,'FontWeight','bold')
+xlabel('(a) IU - Sensor - Sample number - 1800 MHz ','FontSize',9,'FontWeight','bold')
 xlim([1 209]);
 ylim([0 1]);
 grid on
@@ -110,7 +110,7 @@ plot(MVG1800_Cal_Ant2./tmp2,'LineWidth',1.5);
 plot(MVG1800_Cal_Ant3./tmp3,'LineWidth',1.5);
 legend('MVG_1','MVG_2','MVG_3')
 ylabel('Normalized voltage','FontSize',9,'FontWeight','bold')
-xlabel('Sample number - 1800 MHz ','FontSize',9,'FontWeight','bold')
+xlabel('(b) MVG Probe - Sample number - 1800 MHz ','FontSize',9,'FontWeight','bold')
 xlim([1 209]);
 ylim([0 1]);
 grid on
@@ -129,7 +129,7 @@ plot(IU3500_Cal_Ant2./tmp2,'LineWidth',1.5);
 plot(IU3500_Cal_Ant3./tmp3,'LineWidth',1.5);
 legend('IU_1','IU_2','IU_3')
 ylabel('Normalized voltage','FontSize',9,'FontWeight','bold')
-xlabel('Sample number - 3500 MHz','FontSize',9,'FontWeight','bold')
+xlabel('(a) IU Sensor - Sample number - 3500 MHz','FontSize',9,'FontWeight','bold')
 xlim([1 209]);
 ylim([0 1]);
 grid on
@@ -143,7 +143,7 @@ plot(MVG3500_Cal_Ant2./tmp2,'LineWidth',1.5);
 plot(MVG3500_Cal_Ant3./tmp3,'LineWidth',1.5);
 legend('MVG_1','MVG_2','MVG_3')
 ylabel('Normalized voltage','FontSize',9,'FontWeight','bold')
-xlabel('Sample number 3500 MHz','FontSize',9,'FontWeight','bold')
+xlabel('(b) MVG Probe - Sample number 3500 MHz','FontSize',9,'FontWeight','bold')
 xlim([1 209]);
 ylim([0 1]);
 grid on
