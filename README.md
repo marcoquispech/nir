@@ -26,9 +26,9 @@ This file provides the following information arranged in columns:
 - IU3500_Val_Ant1, IU3500_Val_Ant2 and IU3500_Val_Ant3: Voltage measurements of IU sensor antennas used to validate the transformation factors found.
 
 ## Results
-K900, K1800 and K3500 contain the values ​​of the calculated calibration factors.
-Figures 1, 2 and 3 are the normalized voltage values ​​obtained with the MVG probe and the IU sensor at frequencies of 900 MHz, 1800 MHz and 3500 MHz respectively. These values are used to calibrate the IU sensor.
-Figures 4, 5 and 6 are the electric field values ​​calculated from the voltages measured with the MVG probe and the IU sensor at the frequencies of 900 MHz, 1800 MHz and 3500 MHz respectively. The measured voltage values ​​have been multiplied by the corresponding calibration factors.
-Figure 7 shows the CDF of the absolute error in electric field values.
+- K900, K1800 and K3500 contain the values ​​of the calculated calibration factors.
+- Figures 1, 2 and 3 are the normalized voltage values ​​obtained with the MVG probe and the IU sensor at frequencies of 900 MHz, 1800 MHz and 3500 MHz respectively. These values are used to calibrate the IU sensor.
+- Figures 4, 5 and 6 are the electric field values ​​calculated from the voltages measured with the MVG probe and the IU sensor at the frequencies of 900 MHz, 1800 MHz and 3500 MHz respectively. The measured voltage values ​​have been multiplied by the corresponding calibration factors.
+- Figure 7 shows the CDF of the absolute error in electric field values.
 
 
